@@ -15,6 +15,7 @@ Building practical tools, then iterating in public.
 
 ## Current Projects
 
+- **[ngents](https://github.com/pyronaur/ngents)** - Tools, docs, and protocols for better agent workflows.
 - **[transparker](https://github.com/pyronaur/transparker)** - Local Handy transcript cleanup via Codex.
 - **[oxlint-plugin-inhuman](https://github.com/pyronaur/oxlint-plugin-inhuman)** - Opinionated Oxlint rules for explicit code.
 - **[oxlint-plugin-no-branching](https://github.com/pyronaur/oxlint-plugin-no-branching)** - Oxlint rules banning `switch` and `else`.
