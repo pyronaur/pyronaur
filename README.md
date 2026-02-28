@@ -1,8 +1,8 @@
 # 🔥 pyronaur 
 
+Building, Exploring, iterating in public, with a lot of tokens.
+
 X/Twitter: **[@pyronaur](https://twitter.com/pyronaur)**  
-Focus: **developer tooling, web engineering, and open source**  
-GitHub: **public since August 18, 2011**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -10,8 +10,6 @@ GitHub: **public since August 18, 2011**
 ![Bun](https://img.shields.io/badge/-Bun-000000?style=flat-square&logo=bun&logoColor=white)
 ![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-
-Building practical tools, then iterating in public.
 
 ## Current Projects
 
