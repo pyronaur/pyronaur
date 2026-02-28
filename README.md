@@ -1,4 +1,4 @@
-# Hi, I'm pyronaur
+# pyronaur 🔥
 
 X/Twitter: **[@pyronaur](https://twitter.com/pyronaur)**  
 Focus: **developer tooling, web engineering, and open source**  
