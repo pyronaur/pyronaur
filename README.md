@@ -13,6 +13,7 @@ X/Twitter: **[@pyronaur](https://twitter.com/pyronaur)**
 
 ## Current Projects
 
+- **[xcode-mcli](https://github.com/pyronaur/xcode-mcli)** - macOS CLI for Apple's Xcode MCP bridge via `xcrun mcpbridge`.
 - **[command-template](https://github.com/pyronaur/command-template)** - Reusable npm CLI package template with Commander and Zod contracts.
 - **[ngents](https://github.com/pyronaur/ngents)** - Tools, docs, and protocols for my personal agent setup.
 - **[transparker](https://github.com/pyronaur/transparker)** - Local Handy transcript cleanup via Codex.
