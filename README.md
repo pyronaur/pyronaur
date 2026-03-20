@@ -16,6 +16,7 @@ X/Twitter: **[@pyronaur](https://twitter.com/pyronaur)**
 - **[xcode-mcli](https://github.com/pyronaur/xcode-mcli)** - macOS CLI for Apple's Xcode MCP bridge via `xcrun mcpbridge`.
 - **[command-template](https://github.com/pyronaur/command-template)** - Reusable npm CLI package template with Commander and Zod contracts.
 - **[ngents](https://github.com/pyronaur/ngents)** - Tools, docs, and protocols for my personal agent setup.
+- **[nippets](https://github.com/pyronaur/nippets)** - Markdown-driven Espanso snippet compiler and watcher.
 - **[transparker](https://github.com/pyronaur/transparker)** - Local Handy transcript cleanup via Codex.
 - **[oxlint-plugin-inhuman](https://github.com/pyronaur/oxlint-plugin-inhuman)** - Opinionated Oxlint rules for explicit code.
 - **[oxlint-plugin-no-branching](https://github.com/pyronaur/oxlint-plugin-no-branching)** - Oxlint rules banning `switch` and `else`.
